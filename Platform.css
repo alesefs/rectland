@@ -1,0 +1,34 @@
+rectland
+{
+	background: #000000;
+    color: white;
+    font: 1em/2em Arial, Helvetica;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute !important;
+    right: 0;
+    top: 0;
+    background: none repeat scroll 0 0 #ffffff;
+    height: 512px;
+    overflow: hidden;
+    position: relative;
+    width: 512px;
+    cursor: none;
+}
+
+*
+{
+	user-select: none;
+	-webkit-tap-highlight-color: rgb(0, 0, 0, 0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
